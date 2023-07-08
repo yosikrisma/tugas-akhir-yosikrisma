@@ -1,2 +1,1 @@
-# tugas-akhir-yosikrisma
-Tugas  Akhir Yosi Krisma
+# Tugas  Akhir Yosi Krisma
